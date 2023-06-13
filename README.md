@@ -20,6 +20,7 @@
 ## 사용가능 언어
 - Python
 - SQL
+- HTML, CSS
 - c++, dart 조금
 
 ## 사용가능 툴
