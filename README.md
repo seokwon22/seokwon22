@@ -26,5 +26,3 @@
 ## 사용가능 툴
 - Dev express
 
-
-![여름이](summer.png)
