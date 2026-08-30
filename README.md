@@ -28,7 +28,7 @@
 
 - **Multicampus Data Analytics & Engineer Camp** (23.05 ~ 23.10)
 
-- **Irisbright Inc.** Data Platform Part, IT Strategy Team (25.03 ~ 26.05)
+- **Irisbright Inc.** Data Platform Part, IT Strategy Team (25.03 ~)
  
 <br>
 
